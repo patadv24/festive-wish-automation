@@ -1,4 +1,5 @@
 # Festive Wish Automation (Python)
+> ⚠️ This project is for educational purposes. Use responsibly and avoid spamming.
 
 ## 📸 Demo
 
@@ -11,8 +12,7 @@
 ### 🔹 WhatsApp Interface
 ![WhatsApp Demo](assets/whatsapp_demo.jpeg)
 
-A Python automation tool that streamlines bulk messaging by eliminating repetitive manual tasks using WhatsApp Web.
-
+Automates bulk WhatsApp messaging by eliminating repetitive manual effort using Python and browser automation.
 ---
 
 ## 🚀 Features
@@ -24,12 +24,21 @@ A Python automation tool that streamlines bulk messaging by eliminating repetiti
 ---
 
 ## ⚙️ How It Works
-1. Load contacts from CSV
-2. Select a random message
-3. Open WhatsApp Web
-4. Send message automatically
+
+1. Reads contact data from a CSV file  
+2. Randomly selects a message from a predefined list  
+3. Opens WhatsApp Web via browser automation  
+4. Injects the message into the chat input  
+5. Sends automatically (Auto Mode) or waits for user confirmation (Manual Mode)
 
 ---
+
+## 🛠 Tech Stack
+
+- Python  
+- PyWhatKit (WhatsApp automation)  
+- PyAutoGUI (keyboard automation)  
+- CSV (data handling)
 
 ## 🧠 Modes
 
@@ -38,8 +47,8 @@ A Python automation tool that streamlines bulk messaging by eliminating repetiti
 - Sends messages and proceeds automatically
 
 ### 🔹 Manual Mode
-- Sends message
-- Pauses before moving to next contact
+- Opens chat and pastes the message  
+- Waits for user confirmation before sending  
 
 ---
 
@@ -62,6 +71,14 @@ Run the script:
 
 
 ---
+
+## ⚠️ Limitations
+
+- Depends on WhatsApp Web loading speed  
+- Requires active internet connection  
+- Timing-based automation may vary across systems
+
+  
 
 ## ⚠️ Important Notes
 - Requires WhatsApp Web login
