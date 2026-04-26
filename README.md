@@ -1,6 +1,17 @@
 # Festive Wish Automation (Python)
 
-A Python-based automation tool that sends bulk personalized messages using WhatsApp Web.
+## 📸 Demo
+
+### 🔹 WhatsApp Message Preview
+![Chat Demo](assets/chat_demo.png)
+
+### 🔹 Script Execution (Terminal)
+![Terminal Demo](assets/terminal_demo.png)
+
+### 🔹 WhatsApp Interface
+![WhatsApp Demo](assets/whatsapp_demo.jpeg)
+
+A Python automation tool that streamlines bulk messaging by eliminating repetitive manual tasks using WhatsApp Web.
 
 ---
 
@@ -66,6 +77,16 @@ Run the script:
 - Multi-category messaging (birthdays, festivals, etc.)
 
 ---
+## 💡 Why I Built This
+
+During Diwali, I noticed people around me struggling to send and reply to a large number of messages manually.
+
+At the same time, I was learning Python and exploring automation. So I built this project to solve a real problem I observed — automating repetitive festive messaging.
+
+This project helped me learn:
+- File handling with CSV
+- Automation using Python
+- Handling manual vs automated workflows
 
 ## 🧑‍💻 Author
 Advait Pathak
