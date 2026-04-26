@@ -1,5 +1,8 @@
 # Festive Wish Automation (Python)
+> Automates bulk WhatsApp messaging by eliminating repetitive manual effort using Python and browser automation.
+> Automates repetitive festive messaging — saving time during high-volume occasions like Diwali.
 > ⚠️ This project is for educational purposes. Use responsibly and avoid spamming.
+
 
 ## 📸 Demo
 
@@ -12,7 +15,6 @@
 ### 🔹 WhatsApp Interface
 ![WhatsApp Demo](assets/whatsapp_demo.jpeg)
 
-Automates bulk WhatsApp messaging by eliminating repetitive manual effort using Python and browser automation.
 ---
 
 ## 🚀 Features
@@ -61,6 +63,14 @@ requirements.txt # Dependencies
 
 ---
 
+## ⚡ Quick Start
+
+1. Clone the repository  
+2. Install dependencies  
+3. Run the script  
+    pip install -r requirements.txt
+    python diwali_wisher.py
+
 ## 📦 Setup
 
 Install dependencies:
@@ -106,4 +116,5 @@ This project helped me learn:
 - Handling manual vs automated workflows
 
 ## 🧑‍💻 Author
-Advait Pathak
+Advait Pathak  
+Aspiring Cybersecurity & Python Developer  
